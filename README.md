@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahan Nirodha Fernando</h1>
-<h3 align="center">I am an undergraduate student in Horizon Campus</h3>
+<h3 align="center">I am an undergraduate student at Horizon Campus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahan-nirodha24&label=Profile%20views&color=0e75b6&style=flat" alt="sahan-nirodha24" /> </p>
 
 <hr>
 
-- 🌱 I’m currently learning **Mobile Application Development using kotlin language through the Android Studio**
+- 🌱 I’m currently in my final year, working on my final year project and enhancing my skills in **AI, ML, Deep Learning, Networking, and Mobile Application Development**
 
 - 📫 How to reach me **nsahan2001@gmail.com**
 
